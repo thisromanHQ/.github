@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner-v10-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./banner-v10-light.svg">
-    <img src="./banner-v10-light.svg" alt="thisroman HQ — Test automation, developer tooling, and AI agent workflows" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-v11-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-v11-light.svg">
+    <img src="./banner-v11-light.svg" alt="thisroman HQ — Test automation, developer tooling, and AI agent workflows" width="100%">
   </picture>
 </p>
 
@@ -12,21 +12,6 @@
   <a href="https://www.linkedin.com/in/roman-pinchuk"><img src="https://img.shields.io/badge/LinkedIn-connect-0a66c2?style=flat" alt="LinkedIn"></a>
 </p>
 
-> Practical tools for reliable software and less repetitive engineering.
-
-## Focus
-
-| Quality engineering | Developer workflows | AI & agents |
-| --- | --- | --- |
-| Web, API, and end-to-end testing | CI/CD and reusable tooling | Agent skills, MCP, and n8n workflows |
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./workflow-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./workflow-light.svg">
-    <img src="./workflow-light.svg" alt="Engineering workflow: understand, automate, verify, integrate, improve" width="100%">
-  </picture>
-</p>
 
 ## Featured project
 
