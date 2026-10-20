@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">thisroman HQ terminal session</title>
+  <desc id="desc">Terminal-style summary of thisroman HQ</desc>
+  <rect width="1000" height="300" rx="10" fill="#e8edf2"/>
+  <g font-family="monospace">
+    <text x="28" y="31" fill="#4f5865" font-size="18">$ cat about.txt</text>
+    <text x="28" y="69" fill="#20252b" font-size="20" font-weight="700">thisroman HQ</text>
+    <text x="28" y="99" fill="#4f5865" font-size="17">Test automation, developer tooling &amp; AI workflows.</text>
+    <text x="28" y="143" fill="#5c6570" font-size="17">Focus:  </text><text x="112" y="143" fill="#008c9e" font-size="17">quality engineering</text><text x="318" y="143" fill="#5c6570" font-size="17"> · </text><text x="339" y="143" fill="#008c9e" font-size="17">CI/CD</text><text x="400" y="143" fill="#5c6570" font-size="17"> · </text><text x="421" y="143" fill="#008c9e" font-size="17">AI agents</text>
+    <text x="28" y="174" fill="#5c6570" font-size="17">Tools:  </text><text x="112" y="174" fill="#20252b" font-size="17">TypeScript · Python · Playwright · n8n</text>
+    <text x="28" y="224" fill="#31844b" font-size="22">&gt;</text><text x="55" y="224" fill="#008c9e" font-size="18">~/Developer/thisromanHQ</text><text x="302" y="224" fill="#5c6570" font-size="17"> on </text><text x="351" y="224" fill="#31844b" font-size="17">[git: main]</text><text x="468" y="224" fill="#a16f00" font-size="17"> [clean]</text>
+    <text x="28" y="267" fill="#31844b" font-size="22">&gt;</text><text x="55" y="267" fill="#20252b" font-size="22">_</text>
+  </g>
+</svg>
