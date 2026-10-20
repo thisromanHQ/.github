@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./banner.svg" alt="thisroman HQ — Test automation, developer tooling, and AI agent workflows" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
+    <img src="./banner-light.svg" alt="thisroman HQ — Test automation, developer tooling, and AI agent workflows" width="100%">
+  </picture>
 </p>
 
 <p align="center">

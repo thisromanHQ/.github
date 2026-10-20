@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">thisroman HQ</title>
+  <desc id="desc">Test automation, developer tooling, and AI agent workflows</desc>
+  <rect width="1200" height="220" rx="12" fill="#dae4ed"/>
+  <rect x="48" y="42" width="5" height="136" rx="2.5" fill="#637afe"/>
+  <text x="82" y="104" fill="#1e2227" font-family="Varela Round,Arial,sans-serif" font-size="48" font-weight="500">thisroman HQ</text>
+  <text x="86" y="145" fill="#637afe" font-family="JetBrains Mono,monospace" font-size="22">&gt;_</text>
+  <text x="132" y="145" fill="#4d5964" font-family="JetBrains Mono,monospace" font-size="20">test automation · developer tooling · AI workflows</text>
+  <line x1="86" y1="177" x2="1114" y2="177" stroke="#b8c4cf"/>
+</svg>
