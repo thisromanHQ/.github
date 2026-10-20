@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">thisroman HQ terminal prompt</title>
+  <desc id="desc">Rainbow-style Powerlevel prompt for thisroman HQ</desc>
+  <rect width="1200" height="250" rx="12" fill="#15171a"/>
+  <g font-family="'JetBrains Mono','SFMono-Regular',monospace">
+    <text x="68" y="55" fill="#8491a2" font-size="15">thisroman HQ  ·  interactive engineering workspace</text>
+    <path d="M68 82h218v42H68z" fill="#637afe"/><path d="m286 82 25 21-25 21z" fill="#637afe"/>
+    <text x="88" y="109" fill="#fff" font-size="18" font-weight="700">roman@thisromanhq</text>
+    <path d="M311 82h190l25 21-25 21H311l25-21z" fill="#354052"/>
+    <text x="354" y="109" fill="#e5edf7" font-size="18">~/workspace</text>
+    <path d="M526 82h112l25 21-25 21H526l25-21z" fill="#51466c"/>
+    <text x="566" y="109" fill="#fff" font-size="18">main</text>
+    <path d="M663 82h104l25 21-25 21H663l25-21z" fill="#1f6b46"/>
+    <text x="699" y="109" fill="#fff" font-size="18">✓ clean</text>
+    <text x="68" y="171" fill="#637afe" font-size="25">❯</text><text x="108" y="171" fill="#e5edf7" font-size="25">build reliable workflows</text><text x="459" y="171" fill="#637afe" font-size="25">▌</text>
+    <text x="70" y="207" fill="#aeb9c6" font-size="17">test automation  ·  developer tooling  ·  AI agent workflows</text>
+    <text x="70" y="230" fill="#637afe" font-size="15">TypeScript  ·  Python  ·  Playwright  ·  CI/CD  ·  n8n</text>
+  </g>
+</svg>
