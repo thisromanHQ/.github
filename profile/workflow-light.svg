@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering workflow</title>
+  <desc id="desc">Understand, automate, verify, integrate, and improve</desc>
+  <rect width="1200" height="190" rx="12" fill="#dae4ed"/>
+  <g font-family="JetBrains Mono,monospace" text-anchor="middle">
+    <g fill="#eef3f7" stroke="#b8c4cf" stroke-width="2">
+      <rect x="28" y="56" width="190" height="70" rx="10"/><rect x="258" y="56" width="190" height="70" rx="10"/>
+      <rect x="488" y="56" width="190" height="70" rx="10"/><rect x="718" y="56" width="190" height="70" rx="10"/><rect x="948" y="56" width="224" height="70" rx="10"/>
+    </g>
+    <g fill="#1e2227" font-size="18"><text x="123" y="98">Understand</text><text x="353" y="98">Automate</text><text x="583" y="98">Verify</text><text x="813" y="98">Integrate</text><text x="1060" y="98">Improve</text></g>
+    <g fill="none" stroke="#637afe" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M228 91h18m-7-7 7 7-7 7M458 91h18m-7-7 7 7-7 7M688 91h18m-7-7 7 7-7 7M918 91h18m-7-7 7 7-7 7"/></g>
+    <text x="600" y="162" fill="#4d5964" font-size="14">a continuous loop for reliable engineering</text>
+  </g>
+</svg>

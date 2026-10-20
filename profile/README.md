@@ -20,14 +20,13 @@
 | --- | --- | --- |
 | Web, API, and end-to-end testing | CI/CD and reusable tooling | Agent skills, MCP, and n8n workflows |
 
-```mermaid
-flowchart LR
-    A["Understand the problem"] --> B["Build automation"]
-    B --> C["Test & verify"]
-    C --> D["Integrate into workflows"]
-    D --> E["Improve with feedback"]
-    E --> A
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./workflow-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./workflow-light.svg">
+    <img src="./workflow-light.svg" alt="Engineering workflow: understand, automate, verify, integrate, improve" width="100%">
+  </picture>
+</p>
 
 ## Featured project
 
