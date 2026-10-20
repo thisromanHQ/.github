@@ -1,5 +1,7 @@
 <p align="center">
   <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./banner-v13-mobile-dark.svg">
+    <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./banner-v13-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./banner-v13-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./banner-v13-light.svg">
     <img src="./banner-v13-light.svg" alt="thisroman HQ — Test automation, developer tooling, and AI agent workflows" width="100%">
