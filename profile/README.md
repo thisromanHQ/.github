@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner-v8-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./banner-v8-light.svg">
-    <img src="./banner-v8-light.svg" alt="thisroman HQ — Test automation, developer tooling, and AI agent workflows" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner-v9-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./banner-v9-light.svg">
+    <img src="./banner-v9-light.svg" alt="thisroman HQ — Test automation, developer tooling, and AI agent workflows" width="100%">
   </picture>
 </p>
 
