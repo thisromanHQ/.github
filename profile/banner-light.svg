@@ -1,10 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
-  <title id="title">thisroman HQ</title>
-  <desc id="desc">Test automation, developer tooling, and AI agent workflows</desc>
-  <rect width="1200" height="220" rx="12" fill="#dae4ed"/>
-  <rect x="48" y="42" width="5" height="136" rx="2.5" fill="#637afe"/>
-  <text x="82" y="104" fill="#1e2227" font-family="Varela Round,Arial,sans-serif" font-size="48" font-weight="500">thisroman HQ</text>
-  <text x="86" y="145" fill="#637afe" font-family="JetBrains Mono,monospace" font-size="22">&gt;_</text>
-  <text x="132" y="145" fill="#4d5964" font-family="JetBrains Mono,monospace" font-size="20">test automation · developer tooling · AI workflows</text>
-  <line x1="86" y1="177" x2="1114" y2="177" stroke="#b8c4cf"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">thisroman HQ terminal</title>
+  <desc id="desc">Terminal-style banner for thisroman HQ</desc>
+  <rect width="1200" height="280" rx="14" fill="#dae4ed"/>
+  <rect x="1" y="1" width="1198" height="278" rx="13" fill="none" stroke="#b8c4cf" stroke-width="2"/>
+  <rect width="1200" height="42" rx="14" fill="#cbd6df"/><rect y="28" width="1200" height="14" fill="#cbd6df"/>
+  <circle cx="28" cy="21" r="6" fill="#c85c67"/><circle cx="50" cy="21" r="6" fill="#c89b4b"/><circle cx="72" cy="21" r="6" fill="#659b57"/>
+  <text x="600" y="26" fill="#4d5964" font-family="JetBrains Mono,monospace" font-size="13" text-anchor="middle">thisroman HQ — terminal</text>
+  <g font-family="JetBrains Mono,monospace">
+    <path d="M54 88h190v38H54z" fill="#637afe"/><path d="m244 88 22 19-22 19z" fill="#637afe"/>
+    <text x="72" y="113" fill="#fff" font-size="16">roman@thisromanhq</text>
+    <path d="M266 88h152l22 19-22 19H266l22-19z" fill="#aebbc7"/>
+    <text x="302" y="113" fill="#1e2227" font-size="16">~/workspace</text>
+    <path d="M440 88h100l22 19-22 19H440l22-19z" fill="#b8c4cf"/>
+    <text x="474" y="113" fill="#1e2227" font-size="16">main</text>
+    <rect x="1024" y="88" width="122" height="38" rx="5" fill="#d9f0df" stroke="#66a876"/>
+    <circle cx="1045" cy="107" r="5" fill="#4f9b61"/><text x="1058" y="113" fill="#397447" font-size="15">READY</text>
+    <text x="58" y="182" fill="#637afe" font-size="23">$</text><text x="84" y="182" fill="#1e2227" font-size="23">build reliable workflows</text><text x="84" y="220" fill="#4d5964" font-size="17">test automation · developer tooling · AI agent workflows</text><text x="84" y="245" fill="#637afe" font-size="18">&gt;_</text>
+  </g>
 </svg>
