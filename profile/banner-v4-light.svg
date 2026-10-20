@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">thisroman HQ terminal</title>
+  <desc id="desc">A readable terminal session for thisroman HQ</desc>
+  <rect width="1200" height="300" rx="12" fill="#dae4ed"/>
+  <rect x="54" y="42" width="5" height="216" rx="2.5" fill="#637afe"/>
+  <g font-family="'JetBrainsMono Nerd Font','JetBrains Mono',monospace">
+    <text x="88" y="82" fill="#47739b" font-size="46" font-weight="700">thisroman HQ</text>
+    <text x="90" y="111" fill="#4d5964" font-size="15">test automation  ·  developer tooling  ·  AI agent workflows</text>
+    <text x="90" y="158" fill="#637afe" font-size="19">╭─</text><text x="119" y="158" fill="#1e2227" font-size="19">roman@thisromanhq</text><text x="345" y="158" fill="#637afe" font-size="19">  </text><text x="383" y="158" fill="#1e2227" font-size="19">~/workspace</text><text x="535" y="158" fill="#637afe" font-size="19">  </text><text x="573" y="158" fill="#1e2227" font-size="19">main</text><text x="650" y="158" fill="#397447" font-size="17"> ● ready</text>
+    <text x="90" y="202" fill="#637afe" font-size="22">╰─❯</text><text x="180" y="202" fill="#1e2227" font-size="22">cat about.txt</text>
+    <text x="90" y="238" fill="#47739b" font-size="21">thisroman HQ</text>
+    <text x="90" y="266" fill="#4d5964" font-size="16">reliable software  ·  repeatable workflows  ·  practical AI</text>
+  </g>
+</svg>
