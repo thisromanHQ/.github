@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" role="img" aria-labelledby="title desc">
+  <title id="title">thisroman HQ bat-style terminal output</title>
+  <desc id="desc">Terminal output with numbered about.txt content</desc>
+  <style>.text{fill:#c9d1d9}.cyan{fill:#39d2c0}.green{fill:#3fb950}.yellow{fill:#d29922}.muted{fill:#6e7681}.purple{fill:#bc8cff}.rule{stroke:#30363d}</style>
+  <rect width="1000" height="520" rx="10" fill="none"/>
+  <g font-family="Consolas,'JetBrains Mono',monospace">
+    <text x="28" y="30" class="green" font-size="18">&gt;</text><text x="55" y="30" class="cyan" font-size="17">~/Developer/thisromanHQ</text><text x="302" y="30" class="muted" font-size="17"> on </text><text x="351" y="30" class="green" font-size="17">[git: main]</text><text x="468" y="30" class="yellow" font-size="17"> [clean]</text>
+    <text x="28" y="65" class="green" font-size="18">&gt;</text><text x="55" y="65" class="text" font-size="18">bat about.txt</text>
+    <line x1="28" y1="88" x2="972" y2="88" class="rule"/><line x1="28" y1="88" x2="28" y2="448" class="rule"/><line x1="972" y1="88" x2="972" y2="448" class="rule"/>
+    <text x="108" y="116" class="muted" font-size="15">File: about.txt</text><line x1="28" y1="151" x2="972" y2="151" class="rule"/>
+    <line x1="88" y1="88" x2="88" y2="448" class="rule"/>
+    <g font-size="16"><text x="72" y="180" text-anchor="end" class="muted">1</text><text x="108" y="180" class="text" font-weight="700">thisroman HQ</text>
+    <text x="72" y="211" text-anchor="end" class="muted">2</text><text x="108" y="211" class="text">Practical tools for reliable software and less repetitive engineering.</text>
+    <text x="72" y="242" text-anchor="end" class="muted">3</text>
+    <text x="72" y="273" text-anchor="end" class="muted">4</text><text x="108" y="273" class="cyan">Focus</text>
+    <text x="72" y="304" text-anchor="end" class="muted">5</text><text x="108" y="304" class="cyan">Quality engineering</text><text x="316" y="304" class="text">Web, API, and end-to-end testing</text>
+    <text x="72" y="335" text-anchor="end" class="muted">6</text><text x="108" y="335" class="cyan">Developer workflows</text><text x="316" y="335" class="text">CI/CD and reusable tooling</text>
+    <text x="72" y="366" text-anchor="end" class="muted">7</text><text x="108" y="366" class="cyan">AI &amp; agents</text><text x="316" y="366" class="text">Agent skills, MCP, and n8n workflows</text>
+    <text x="72" y="397" text-anchor="end" class="muted">8</text><text x="108" y="397"><tspan class="cyan">Workflow</tspan><tspan class="text">   Understand  </tspan><tspan class="purple">→</tspan><tspan class="text">  Automate  </tspan><tspan class="purple">→</tspan><tspan class="text">  Verify  </tspan><tspan class="purple">→</tspan><tspan class="text">  Integrate  </tspan><tspan class="purple">→</tspan><tspan class="text">  Improve</tspan></text>
+    <text x="72" y="428" text-anchor="end" class="muted">9</text><text x="108" y="428" class="muted">quality engineering · repeatable delivery · practical AI</text></g>
+    <line x1="28" y1="448" x2="972" y2="448" class="rule"/>
+    <text x="28" y="485" class="green" font-size="18">&gt;</text><text x="55" y="485" class="text" font-size="18">_</text>
+  </g>
+</svg>
